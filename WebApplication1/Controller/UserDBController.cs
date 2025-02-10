@@ -29,9 +29,12 @@ namespace WebApplication1.Controller
         }
 
         [HttpGet]
-        public Task<IActionResult> Get()
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        
+        public async Task<IActionResult> GetList()
         {
-            throw new NotImplementedException();
+            var response = await _userDBContext.GetList();
+            return Ok(response);
         }
 
 
@@ -51,9 +54,30 @@ namespace WebApplication1.Controller
         }
 
         [HttpDelete]
-        public Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            throw new NotImplementedException();    
+            bool response = await _userDBContext.Delete(id);
+            return Ok(response);
+        }
+
+        [HttpPut]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+
+        public async Task<IActionResult> Replace([FromBody]User user)
+        {
+            var response = await _userDBContext.Replace(user);
+
+            return Ok(response);    
+
+        }
+
+        [HttpPatch]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<IActionResult> Update([FromBody] User userEdited)
+        {
+            var response = await _userDBContext.Update(userEdited);
+            return Ok(response);
         }
     }
 }

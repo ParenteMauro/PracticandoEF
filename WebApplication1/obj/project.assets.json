@@ -5109,11 +5109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauro\\Desktop\\Nueva carpeta\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\mauro\\Desktop\\Nueva carpeta\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauro\\Desktop\\Nueva carpeta\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
