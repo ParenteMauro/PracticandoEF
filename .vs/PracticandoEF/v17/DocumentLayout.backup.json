@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\controller\\userdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controller\\userdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\seeds\\favoriteseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\seeds\\favoriteseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\seeds\\userseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\seeds\\productseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\seeds\\productseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\migrations\\20250210232951_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250210232951_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\ingreso\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ingreso\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|c:\\users\\mauro\\desktop\\practicando\\practicandoef\\webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95CFEC43-6882-4EDB-A7A2-27AA4855067D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +70,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "FavoriteSeed.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\FavoriteSeed.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Seeds\\FavoriteSeed.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\FavoriteSeed.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Seeds\\FavoriteSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:18:49.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSeed.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\ProductSeed.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Seeds\\ProductSeed.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\ProductSeed.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Seeds\\ProductSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:50:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserSeed.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\UserSeed.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Seeds\\UserSeed.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Seeds\\UserSeed.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Seeds\\UserSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:39:18.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250210232951_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Migrations\\20250210232951_InitialMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250210232951_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Migrations\\20250210232951_InitialMigration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250210232951_InitialMigration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:29:56.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Ingreso\\UserDto.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Ingreso\\UserDto.cs",
@@ -62,25 +129,24 @@
               "RelativeToolTip": "WebApplication1\\Ingreso\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T22:30:34.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T22:30:34.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserDBController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Controller\\UserDBController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controller\\UserDBController.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Controller\\UserDBController.cs*",
-              "RelativeToolTip": "WebApplication1\\Controller\\UserDBController.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwEsAAAA2AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Controller\\UserDBController.cs",
+              "RelativeToolTip": "WebApplication1\\Controller\\UserDBController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T19:18:36.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
@@ -88,12 +154,11 @@
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-09T19:16:04.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T19:16:04.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -101,70 +166,67 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T18:11:51.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:11:51.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:46:29.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:46:29.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Product.cs",
               "RelativeToolTip": "WebApplication1\\Data\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T18:09:48.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T18:09:48.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Favorites.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Favorites.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\Favorites.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Favorites.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Entities\\Favorites.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Favorite.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\Favorite.cs",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\Favorite.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Entities\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T18:06:16.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserDBContext.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\UserDBContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\UserDBContext.cs",
-              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\UserDBContext.cs*",
-              "RelativeToolTip": "WebApplication1\\Data\\UserDBContext.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwEYAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\UserDBContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\UserDBContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T18:00:33.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\mauro\\Desktop\\Practicando\\PracticandoEF\\WebApplication1\\Data\\Entities\\User.cs",
               "RelativeToolTip": "WebApplication1\\Data\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T17:48:27.3Z"
             }
