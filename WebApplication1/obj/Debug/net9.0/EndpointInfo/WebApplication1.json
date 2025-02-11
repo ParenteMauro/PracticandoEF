@@ -213,7 +213,7 @@
   },
   "components": {
     "schemas": {
-      "Favorites": {
+      "Favorite": {
         "required": [
           "product_Id",
           "userId"
@@ -296,7 +296,7 @@
           "favorites": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Favorites"
+              "$ref": "#/components/schemas/Favorite"
             },
             "nullable": true
           }

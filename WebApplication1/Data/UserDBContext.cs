@@ -18,11 +18,12 @@ public class UserDBContext : DbContext
     {
         modelBuilder.ApplyConfiguration(new UserSeed());
         modelBuilder.ApplyConfiguration(new ProductSeed());
+        modelBuilder.ApplyConfiguration(new  FavoriteSeed());   
     }
 
     public async Task<User> Get(int id)
     {
-        return await users.FirstOrDefaultAsync(u => u.Id == id);
+        return await users.Include(u => u.Favorites).FirstOrDefaultAsync(u => u.Id == id);
     }
 
     public async Task<List<User>> GetList()
