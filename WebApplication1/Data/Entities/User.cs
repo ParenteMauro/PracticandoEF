@@ -22,5 +22,8 @@ namespace WebApplication1.Data.Entities
 
 
         public string? Phone { get; set; }
+
+        public ICollection<Favorite> Favorites { get; set; }
+
     }
 }

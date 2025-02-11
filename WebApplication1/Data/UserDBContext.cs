@@ -3,6 +3,7 @@ using Microsoft.Extensions.Options;
 using WebApplication1.Data.Entities;
 using WebApplication1.Controller;
 using WebApplication1.Ingreso;
+using WebApplication1.Data.Seeds;
 namespace WebApplication1.Data;
 
 public class UserDBContext : DbContext
@@ -11,9 +12,13 @@ public class UserDBContext : DbContext
     public virtual DbSet<User> users { get; set; }
     public virtual DbSet<Product> products { get; set; }
 
-    public virtual DbSet<Favorites> favorites { get; set; }
+    public virtual DbSet<Favorite> favorites { get; set; }
 
-
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.ApplyConfiguration(new UserSeed());
+        modelBuilder.ApplyConfiguration(new ProductSeed());
+    }
 
     public async Task<User> Get(int id)
     {

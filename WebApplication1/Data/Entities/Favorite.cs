@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApplication1.Data.Entities
 {
-    public class Favorites
+    public class Favorite
     {
         [Key]
         public int Id { get; set; }
